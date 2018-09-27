@@ -1,4 +1,4 @@
-# zero
+# zeros
 Let's count zeros!
 
 ## Task
